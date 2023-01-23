@@ -1,1 +1,3 @@
 Practicando comando con Platzi
+
+Bienvenido al mundo de la Programacion con Platzi.
